@@ -40,7 +40,7 @@ CREATE TABLE `tb_mhs` (
 --
 
 INSERT INTO `tb_mhs` (`nim`, `nama`, `jurusan`, `alamat`) VALUES
-('18090037', 'Solehudin Alfah Rezi', 'DIV Teknik Informatika', 'Pagedangan');
+('18090131', 'Tegar Prasetya', 'DIV Teknik Informatika', 'Brebes');
 
 --
 -- Indexes for dumped tables
